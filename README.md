@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 Aiming to learn Cloud Security through personal projects asap.
 - 📫 How to reach me: by email at ubongnt@gmail.com
 
-[![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=ubongn)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=ubongn)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- Some of my financial projects are available at https://github.com/dli-invest -->
