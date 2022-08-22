@@ -63,18 +63,18 @@ Here are some ideas to get you started:
   </p>
 </details>
 
-## Wakatime Stats
-<!-- > Expand to see details -->
-<div>
+<!-- ## Wakatime Stats
+> Expand to see details
+ <div>
   <summary> 
     WakaTime Dashboard
   </summary>
   <p>
     <img src="https://wakatime.com/share/@davebenard/10023645-ef3f-4fb0-b36e-0bd2e0912b17.svg" height="400" width="600">
   </p>
-</div>
+</div> -->
   
- ### 📫 You can reach me here:  
+<!--  ### 📫 You can reach me here:  
 <a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  </a> 
  <a href="https://twitter.com/dav3ly" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a>
+ </a> -->
 
 
 <!-- [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=ubongn)](https://github.com/anuraghazra/github-readme-stats) -->
