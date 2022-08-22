@@ -48,9 +48,9 @@ Here are some ideas to get you started:
  ### My Github Stats 
 - - - -
   
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=traj3ctory&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/traj3ctory)
+[![Ubong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubongn&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/ubongn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traj3ctory&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/traj3ctory)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubongn&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ubongn)
 
 ## Github Trophies
 > Expand to see my Github trophies 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     Github Trophies
   </summary>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=traj3ctory&theme=algolia&column=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=ubongn&theme=algolia&column=4">
   </p>
 </details>
 
