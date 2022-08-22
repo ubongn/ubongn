@@ -48,7 +48,7 @@ Here are some ideas to get you started:
  ### My Github Stats 
 - - - -
   
-[![Ubong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubongn&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/ubongn)
+<!--[![Ubong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubongn&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/ubongn) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubongn&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ubongn)
 
