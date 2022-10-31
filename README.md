@@ -45,13 +45,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" /> 
  </p>
  
- ### My Github Stats 
+<!-- ### My Github Stats 
 - - - -
   
 <!--[![Ubong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ubongn&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/ubongn) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubongn&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ubongn)
-
+-->
 <!-- ## Github Trophies
 > Expand to see my Github trophies 
 <details>
