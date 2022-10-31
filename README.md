@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-5E5C5C?style=for-the-badge&logo=json&logoColor=blue" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-100000?style=for-the-badge&logo=github&logoColor=green" /> 
