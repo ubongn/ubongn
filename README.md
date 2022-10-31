@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ubongn&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/ubongn)
 
-## Github Trophies
+<!-- ## Github Trophies
 > Expand to see my Github trophies 
 <details>
   <summary> 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <p>
     <img src="https://github-profile-trophy.vercel.app/?username=ubongn&theme=algolia&column=4">
   </p>
-</details>
+</details> -->
 
 <!-- ## Wakatime Stats
 > Expand to see details
