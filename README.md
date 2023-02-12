@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on learning ways
-- 🤔 Aiming to learn Cloud Security through personal projects asap.
+<!-- - 🤔 Aiming to learn Cloud Security through personal projects asap. -->
 <!-- - 📫 How to reach me: by email at ubongnt@gmail.com -->
 
 ### Technologies
