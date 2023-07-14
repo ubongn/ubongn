@@ -7,6 +7,14 @@
 
 </div>
 
+<div align="center">
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ubongn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubong-ntekim-44363a58) ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fubongn)
+
+
+</div>
+
 
 <div align="center">
 
@@ -44,16 +52,6 @@
   </p>
 </div> -->
   
-   ### 📫 You can reach me here:  
-<a href="https://www.linkedin.com/in/david-benard-196961121/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="mailto:davidbenard.bd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
- </a> 
- <a href="https://twitter.com/dav3ly" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
- </a> 
 
 
 <!-- [![FriendlyUser's github stats](https://github-readme-stats.vercel.app/api?username=ubongn)](https://github.com/anuraghazra/github-readme-stats) -->
