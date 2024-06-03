@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ubongn)
 - 🔭 I’m currently working on learning ways
 <!-- - 🤔 Aiming to learn Cloud Security through personal projects asap. -->
 <!-- - 📫 How to reach me: by email at ubongnt@gmail.com -->
