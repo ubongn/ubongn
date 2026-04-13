@@ -7,15 +7,6 @@
 
 </div>
 
-<div align="center">
-
-## 🌐 Socials:
-(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubong-ntekim-44363a58) ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fubong_dev)
-
-
-
-</div>
-
 
 <!-- <div align="center">
 
