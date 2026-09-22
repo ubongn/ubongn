@@ -46,6 +46,5 @@ Ex-data engineer (IBM certified). Open to collaboration from Abuja, Nigeria 🇳
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ubongn&show_icons=true&hide_border=true&title_color=14B6E7" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubongn&layout=compact&hide_border=true&title_color=14B6E7" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats-black-one.vercel.app/api?username=ubongn&show_icons=true&hide_border=true&title_color=14B6E7" alt="GitHub stats" />
 </p>
